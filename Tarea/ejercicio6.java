@@ -3,7 +3,7 @@
 //Crea un método nombreCompleto(String n, String a) que retorne el nombre completo.
 //Imprime el resultado.
 
-public class concatenar {
+public class ejercicio6 {
     public static void main(String[] args) {
         String nombre;
         String apellido;

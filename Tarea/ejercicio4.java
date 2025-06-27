@@ -3,7 +3,7 @@
 //Crea un método area(double b, double h) que retorne el área.
 //Imprime el resultado con unidades.
 
-public class Area {
+public class ejercicio4 {
     public static void main(String[] args) {
         double base;
         double altura;

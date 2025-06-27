@@ -3,7 +3,7 @@
 //Crea un método multiplicar(int a, int b) que retorne el resultado.
 //Imprime: "El resultado de multiplicar [a] × [b] es: [resultado]"
 
-public class multiplicar {
+public class ejercicio10 {
     public static void main(String[] args) {
         int numero1;
         int numero2;

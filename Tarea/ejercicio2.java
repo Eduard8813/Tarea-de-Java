@@ -3,7 +3,7 @@
 //Crea un método sumar(int a, int b) que retorne la suma.
 //Imprime el resultado con mensaje.
 
-public class sumar{
+public class ejercicio2{
     public static void main(String[] args) {
         int a;
         int b;

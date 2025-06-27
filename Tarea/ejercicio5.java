@@ -3,7 +3,7 @@
 //Crea un método doble(int n) que retorne el doble.
 //Imprime: "El doble de [n] es [resultado]"
 
-public class Mostrar {
+public class ejercicio5 {
     public static void main(String[] args) {
         int numero;
         numero = 6;

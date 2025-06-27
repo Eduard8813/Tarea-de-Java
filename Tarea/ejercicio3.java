@@ -3,7 +3,7 @@
 //Crea un método convertirAFahrenheit(double c) usando la fórmula F = C * 9/5 + 32.
 //Imprime el resultado.
 
-public class convertir {
+public class ejercicio3 {
     
     public static void main(String[] args) {
         double celsius = getconvertirAFahrenheit(88);

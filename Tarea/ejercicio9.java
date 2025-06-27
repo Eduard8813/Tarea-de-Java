@@ -3,7 +3,7 @@
 //"¡Sigue aprendiendo Java, vas por buen camino!"
 //Llama al método desde main.
 
-public class mensaje {
+public class ejercicio9 {
     public static void main(String[] args) {
         mensajes();
     }

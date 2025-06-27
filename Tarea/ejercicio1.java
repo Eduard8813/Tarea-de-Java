@@ -2,7 +2,7 @@
 //Declara una variable nombre y otra edad.
 //Imprime: "Hola, mi nombre es [nombre] y tengo [edad] años."
 
-public class saludo {
+public class ejercicio1 {
     public static void main(String[] args ){
         String nombre;
         int Edad;
